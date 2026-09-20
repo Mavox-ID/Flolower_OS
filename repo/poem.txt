@@ -1,0 +1,11 @@
+A kernel boots in silent night,
+No screen, no sound, just PIC and light -
+A sector read, a mode set true,
+Eight hundred wide, six hundred through.
+
+No shell to fork, no net to roam,
+Just RAM and disk to call its home -
+Yet here it draws a purple square,
+A little OS, built with care.
+
+[[home]]  [[cheatsheet]]

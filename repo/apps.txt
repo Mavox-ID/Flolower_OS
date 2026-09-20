@@ -1,0 +1,16 @@
+Flolower App Repo — available packages
+
+  cheatsheet   terminal command reference
+  poem         a short poem
+  apps         this file
+
+These are real .flopkg packages baked into flolower.img at build time
+(see tools/build_repo.py and repo/*.txt) and read from disk at runtime
+by kernel/ata.c + the download command's FLOPKG parser. There's no
+network driver in this OS, so this is a local repo, not the internet —
+but the read/parse/install path is real, not simulated.
+
+Add your own: drop a .txt file in repo/, rerun the build, it shows up
+here automatically.
+
+[[home]]  [[poem]]  [[cheatsheet]]

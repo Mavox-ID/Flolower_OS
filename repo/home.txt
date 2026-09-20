@@ -1,0 +1,14 @@
+Welcome to Flolower Browser
+
+This is a tiny local browser — it reads [[apps]]-style links from
+.flopkg pages on disk (via the same ATA driver and repo format as
+'download' in the terminal). There's no internet here, just local
+pages linking to each other.
+
+Try these pages:
+  [[poem]]
+  [[cheatsheet]]
+  [[apps]]
+
+Click a link (the highlighted word) to navigate. Click "< Back" in
+the toolbar to go back.

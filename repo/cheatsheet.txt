@@ -1,0 +1,19 @@
+Flolower OS — Terminal command reference
+
+Builtins:
+  cd <dir>       change directory
+  clear          clear the terminal scrollback
+  ls [dir]       list a directory
+  pwd            print working directory
+  cat <file>     print a file's contents
+  echo <text>    print text
+  mkdir <dir>    create a directory
+  rm <file>      delete a file
+  touch <file>   create an empty file
+  download <name>  install an app from the local repo (see: apps)
+
+This file itself was fetched from the on-disk app repo via the real
+FLOPKG package format and the kernel's own ATA disk driver — not typed
+out by the terminal. Try 'download poem' or 'download apps' next.
+
+[[home]]  [[poem]]  [[apps]]
